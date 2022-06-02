@@ -19,3 +19,15 @@ O projeto consistia em desenvolver um aplicativo de receitas, onde seria possive
 * Hooks
 * Context API
 * Bootstrap
+
+<h2> Créditos do projeto a esse grupo incrivel</h2>
+
+* Ana Paula Braga
+* Gabriel Benedetti
+* Gustavo Fernandes
+* Paulo de Sordi
+* Silas Oliveira
+
+<h2> Status </h2>
+
+Finalizado!
